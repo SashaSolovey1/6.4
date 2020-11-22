@@ -1,0 +1,2 @@
+C:\Users\Dell\source\repos\6.4\Debug\6.4.exe
+C:\Users\Dell\source\repos\6.4\Debug\6.4.pdb
